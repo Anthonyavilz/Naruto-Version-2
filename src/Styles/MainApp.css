@@ -1,0 +1,97 @@
+html {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.first-row {
+    display: flex;
+    justify-content: center;
+}
+
+.second-row {
+    display: flex;
+    justify-content: center;
+}
+
+.third-row {
+    display: flex;
+    justify-content: center;
+}
+
+.fourth-row {
+    display: flex;
+    justify-content: center;
+}
+
+.bird {
+    opacity: 1;
+    width: 16.67%;
+    height: auto;
+}
+
+.boar {
+    opacity: 1;
+    width: 16.67%;
+    height: auto;
+}
+
+.dog {
+    opacity: 1;
+    width: 16.67%;
+    height: auto;
+}
+
+.dragon {
+    opacity: 1;
+    width: 16.67%;
+    height: auto;
+}
+
+.hare {
+    opacity: 1;
+    width: 16.67%;
+    height: auto;
+}
+
+.horse {
+    opacity: 1;
+    width: 16.67%;
+    height: auto;
+}
+
+.monkey {
+    opacity: 1;
+    width: 16.67%;
+    height: auto;
+}
+
+.ox {
+    opacity: 1;
+    width: 16.67%;
+    height: auto;
+}
+
+.ram {
+    opacity: 1;
+    width: 16.67%;
+    height: auto;
+}
+
+.rat {
+    opacity: 1;
+    width: 16.67%;
+    height: auto;
+}
+
+.serpernt {
+    opacity: 1;
+    width: 16.67%;
+    height: auto;
+}
+
+.tiger {
+    opacity: 1;
+    width: 16.67%;
+    height: auto;
+}
